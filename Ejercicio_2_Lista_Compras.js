@@ -7,7 +7,7 @@ function ListaCompras(){
     }
     this.mostrar=function(){
         for(let i=0;i<this.productos.length;i++){
-            console.log(i, ".", this.productos[i]);
+            console.log(i+1, ".", this.productos[i]);
         }
     }
 }
