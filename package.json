@@ -1,0 +1,23 @@
+{
+  "name": "lab_prop_obj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ejercicio_1_libro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PipeAlf/Lab_Prop_Obj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PipeAlf/Lab_Prop_Obj/issues"
+  },
+  "homepage": "https://github.com/PipeAlf/Lab_Prop_Obj#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
